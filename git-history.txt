@@ -1,0 +1,9 @@
+Initial commit - 78db68f8cb7cce2cca6808ae0edbf1b72826f268 
+
+Added data folder, added lorem.txt inside - 3f4c4631d9d2fbbf8ef32cce19c7e9cbf359e4c2
+
+added temp folder, inside lorem.txt - e3f9611c0f51d1923faff54e0b630158f27bca79
+
+added 4 sentences of lorem ipsum to data/lorem.txt - 2000c1ce173f4973391dd8557135c4a67320acc8
+
+renamed data/lorem.txt to data/lorem_ipsum.txt - be9ee3ec3e77bf5b305df8e31ef9785577c31413
